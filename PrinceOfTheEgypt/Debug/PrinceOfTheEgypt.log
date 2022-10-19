@@ -1,0 +1,8 @@
+﻿  Main.cpp
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(66,17): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(67,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(69,78): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(69,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(86,53): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\georq\source\repos\PrinceOfTheEgypt\Main.cpp(115,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  PrinceOfTheEgypt.vcxproj -> C:\Users\georq\source\repos\PrinceOfTheEgypt\Debug\PrinceOfTheEgypt.exe
